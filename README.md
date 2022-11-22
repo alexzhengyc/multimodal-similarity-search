@@ -3,7 +3,7 @@ Vectorized Similarity Search in Multi-modal Databases: UCLA Machine Learning Pro
 
 
 
-### Project
+## Project
 
 #### Problem
 
@@ -27,7 +27,7 @@ In myriad real-world applications, data is not confined to a single data format;
 
 
 
-### Contrastive Language-Image Pre-training (CLIP)
+## Contrastive Language-Image Pre-training (CLIP)
 
 #### Summary of CLIP
 
@@ -48,14 +48,14 @@ Pre-training
 1. Collect image-text pairs from the Internet to create datasets
 2. Trains an image encoder and a text encoder to predict which images were paired with which text
 
-![pre-training](image/pre-training.png)
+<img src="image/pre-training.png" alt="pre-training" style="zoom:50%;" />
 
 Model Prediction
 
 1. Turn classifier (possible label outputs) into encoded text 
 2. Encode the images to find the closest encoded text
 
-![prediciton](image/prediction.png)
+<img src="image/prediction.png" alt="prediciton" style="zoom:50%;" />
 
 #### Key result 
 
