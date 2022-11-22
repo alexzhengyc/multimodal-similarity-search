@@ -1,4 +1,4 @@
-# Vectorized Similarity Search in Multi-modal Databases: UCLA Machine Learning Project 
+# Vectorized Similarity Search in Multi-modal Databases: An Application based on CLIP model
 
 ## Project
 
